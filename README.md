@@ -1,5 +1,5 @@
 
-# KD Academy User Manual
+# OVERVIEW
 
 KD Academy is a comprehensive e-learning platform designed to streamline academic processes such as course registration, attendance management, and grading. This user manual provides a step-by-step guide to assist students, lecturers, and administrators in using the system efficiently.
 
